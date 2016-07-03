@@ -1,0 +1,25 @@
+{
+    "name": "RFID-RC522",
+    "version": "1.0.0",
+    "description": "This module is a simple node api that allows a user to read and write to the RFID-RC522 module.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "contributors": [{
+      "name": "Jesse Harlin",
+      "email" : "harlinjesse@gmail.com",
+      "url" : "http://jesseharlin.net/"
+    }, {
+      "name": "Jon Yarbor",
+      "email" : "blazeddesigns@gmail.com",
+      "url": "https://github.com/blazedd"
+    }],
+    "license": "MIT",
+    "dependencies": {
+        "json-stream": "^1.0.0",
+        "lodash": "^4.13.1",
+        "request": "^2.72.0"
+    }
+}
