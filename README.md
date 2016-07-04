@@ -1,4 +1,8 @@
 # RFID-RC522 #
+
+## Unfinished/Under Development ##
+
+
 ![RFID-RC522](/documentation/rfid-rd522-banner.jpg)
 ----
 Authors:
